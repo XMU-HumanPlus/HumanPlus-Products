@@ -7,6 +7,7 @@
 | 产品 | 简介 | 使用说明 | 最新版本 |
 | --- | --- | --- | --- |
 | HumanPlusMoCapPicoSDK | 在 PICO 上连接智能衣物、接收带时间戳的 IMU 数据，并支持校准、录制和可选 UDP 实时传输的 Android AAR | [SDK 使用说明](HumanPlusMoCapPicoSDK/HumanPlusMoCapPicoSDK.md) | [v0.1.0（预发布）](https://github.com/XMU-HumanPlus/HumanPlus-Products/releases/tag/HumanPlusMoCapPicoSDK/v0.1.0) |
+| HumanPlusMoCapUnity | Windows 64 位动捕预览程序，支持可选的 SteamVR 头部与手臂辅助追踪 | [使用手册](HumanPlusMoCapUnity/HumanPlusMoCapUnity.md) | [v0.1.0（预发布）](https://github.com/XMU-HumanPlus/HumanPlus-Products/releases/tag/HumanPlusMoCapUnity/v0.1.0) |
 
 ## 下载产品
 
