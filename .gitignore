@@ -3,6 +3,16 @@
 *.apk
 *.aab
 *.apks
+*.jar
+*.zip
+*.7z
+*.tar.gz
+*.tgz
+*.exe
+*.msi
+*.dmg
+*.pkg
+*.unitypackage
 
 # Local build and editor files
 build/
