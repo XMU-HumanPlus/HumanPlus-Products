@@ -1,0 +1,15 @@
+# Product binaries are attached to GitHub Releases, not committed here.
+*.aar
+*.apk
+*.aab
+*.apks
+
+# Local build and editor files
+build/
+.gradle/
+.idea/
+*.iml
+local.properties
+*.log
+Thumbs.db
+.DS_Store
