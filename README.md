@@ -7,6 +7,7 @@ Documentation and release downloads for HumanPlus products. This repository cont
 | Product | Description | Documentation | Latest release |
 | --- | --- | --- | --- |
 | HumanPlusMoCapPicoSDK | Android AAR for connecting SmartWear garments on PICO, receiving timed IMU data, calibration, recording, and optional UDP streaming | [SDK guide](HumanPlusMoCapPicoSDK/HumanPlusMoCapPicoSDK.md) | [v0.1.0 (Preview)](https://github.com/XMU-HumanPlus/HumanPlus-Products/releases/tag/HumanPlusMoCapPicoSDK/v0.1.0) |
+| HumanPlusMoCapPico | Installable PICO app for SmartWear connection, synchronized IMU recording, T-Pose calibration, and optional UDP streaming | [App guide](HumanPlusMoCapPico/HumanPlusMoCapPico.md) | [v0.1.0 (Preview)](https://github.com/XMU-HumanPlus/HumanPlus-Products/releases/tag/HumanPlusMoCapPico/v0.1.0) |
 | HumanPlusMoCapUnity | Windows 64-bit mocap viewer with optional SteamVR-assisted head and arm tracking | [User manual](HumanPlusMoCapUnity/HumanPlusMoCapUnity.md) | [v0.1.0 (Preview)](https://github.com/XMU-HumanPlus/HumanPlus-Products/releases/tag/HumanPlusMoCapUnity/v0.1.0) |
 
 ## Downloading a product
